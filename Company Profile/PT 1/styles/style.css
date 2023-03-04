@@ -68,3 +68,19 @@ section .row {
   margin-top: 24px;
   font-weight: bolder;
 }
+
+
+
+.blog-1 , .blog-2, .blog-3{
+  text-align: left;
+  max-width: 300px;
+  margin: auto;
+}
+
+.blog img {
+  width: 100%;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  margin-top: 8px;
+}
+
